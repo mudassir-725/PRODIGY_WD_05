@@ -36,14 +36,12 @@ Weather Foretell includes a theme toggle feature that allows users to switch bet
 <!-- ![Weather Foretell Screenshot](images/Newyork.png) -->
 <img src="images/Newyork.png" alt="Light Theme" width="700" height="800"/>
 
-### City
-
-#### Hyderabad
+### City - Hyderabad
 
 <!-- ![Weather Foretell Screenshot](images/Hyderabad.png) -->
 <img src="images/Hyderabad.png" alt="Light Theme" width="700" height="800"/>
 
-#### Ooty
+### City - Ooty
 <!-- ![Weather Foretell Screenshot](images/Ooty.png) -->
 <img src="images/Ooty.png" alt="Light Theme" width="700" height="800"/>
 
