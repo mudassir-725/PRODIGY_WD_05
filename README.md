@@ -20,7 +20,8 @@ Weather Foretell includes a theme toggle feature that allows users to switch bet
 
 ### Light Theme
 
-![Light Theme]()
+<!--![Light Theme](images/weatherforetellwhite.png) -->
+<img src="images/weatherforetellwhite.png" alt="Light Theme" width="500" height="900"/>
 
 ### Dark Theme
 
@@ -28,10 +29,12 @@ Weather Foretell includes a theme toggle feature that allows users to switch bet
 
 ## 📸 Screenshots
 
-Homepage
-![Weather Foretell Screenshot](images/weatherforetellwhite.png)
+### Homepage
 
-City
+![Weather Foretell Screenshot](images/Newyork.png)
+
+### City
+
 ![Weather Foretell Screenshot](images/Hyderabad.png)
 ![Weather Foretell Screenshot](images/Ooty.png)
 
