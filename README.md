@@ -13,9 +13,28 @@ Weather Foretell allows users to enter a city name to receive current weather in
 - **Light and Dark Themes:** Toggle between light and dark themes to suit user preferences.
 - **Responsive Design:** Mobile-friendly design with adaptive layouts for various screen sizes.
 
+
+## 🌗 Theme Toggle
+
+Weather Foretell includes a theme toggle feature that allows users to switch between light and dark modes. This enhances usability in different lighting conditions and personal preferences.
+
+### Light Theme
+
+![Light Theme]()
+
+### Dark Theme
+
+![Dark Theme](images/weatherforetelldark.png)
+
 ## 📸 Screenshots
 
-![Weather Foretell Screenshot](path-to-screenshot.jpg)
+Homepage
+![Weather Foretell Screenshot](images/weatherforetellwhite.png)
+
+City
+![Weather Foretell Screenshot](images/Hyderabad.png)
+![Weather Foretell Screenshot](images/Ooty.png)
+
 
 ## 🎮 How to Use
 
