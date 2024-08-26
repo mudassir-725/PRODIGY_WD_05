@@ -21,7 +21,7 @@ Weather Foretell includes a theme toggle feature that allows users to switch bet
 ### Light Theme
 
 <!--![Light Theme](images/weatherforetellwhite.png) -->
-<img src="images/weatherforetellwhite.png" alt="Light Theme" width="500" height="900"/>
+<img src="images/weatherforetellwhite.png" alt="Light Theme" width="700" height="800"/>
 
 ### Dark Theme
 
